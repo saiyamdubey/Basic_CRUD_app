@@ -13,7 +13,8 @@ Before running the application, make sure you have the following installed on yo
 
 ### bash
 Copy code
-git clone https://github.com/your-username/Basic_CRUD_app.git
+git clone https://github.com/saiyamdubey/Basic_CRUD_app
+
 Navigate to the project directory:
 
 ### bash
