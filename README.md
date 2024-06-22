@@ -9,7 +9,8 @@ Before running the application, make sure you have the following installed on yo
 #####Node.js: Download and Install Node.js
 #####MongoDB: Install MongoDB
 #####Getting Started
-#####Clone the repository:
+#####Clone 
+the repository:
 
 ### bash
 Copy code
