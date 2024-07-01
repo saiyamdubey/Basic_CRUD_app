@@ -12,7 +12,6 @@ Before running the application, make sure you have the following installed on yo
 #####Clone 
 
 the repository:
-
 ### bash
 Copy code
 git clone https://github.com/saiyamdubey/Basic_CRUD_app
