@@ -19,7 +19,6 @@ git clone https://github.com/saiyamdubey/Basic_CRUD_app
 
 Navigate to the project directory:
 
-
 ### bash
 Copy code
 cd Basic_CRUD_app
