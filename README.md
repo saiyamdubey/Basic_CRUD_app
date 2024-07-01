@@ -10,6 +10,7 @@ Before running the application, make sure you have the following installed on yo
 #####MongoDB: Install MongoDB
 #####Getting Started
 #####Clone 
+
 the repository:
 
 
