@@ -14,9 +14,11 @@ Before running the application, make sure you have the following installed on yo
 the repository:
 ### bash
 Copy code
+
 git clone https://github.com/saiyamdubey/Basic_CRUD_app
 
 Navigate to the project directory:
+
 
 ### bash
 Copy code
